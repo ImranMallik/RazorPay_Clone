@@ -1,1 +1,1 @@
-This Project Help You Learn Tailwind Css and clear knoledge About Tailwind Css
+This Project Help You Learn Tailwind Css and clear knowledge About Tailwind Css
